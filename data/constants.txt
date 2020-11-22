@@ -1,0 +1,54 @@
+Here are the variables the user is allowed to alter. Please do not change the formatting of the file as it it is highly sensitive to changes. 
+
+Masses and Radii:
+m1:10000
+m2:1000
+m3:1000
+r1:50
+r2:50
+r3:50
+
+Initial Positions:
+x1:0
+y1:0
+z1:0
+x2:0
+y2:0
+z2:-250
+x3:250
+y3:0
+z3:0
+
+Initial Velocities:
+vx1:0
+vy1:-200
+vz1:0
+vx2:-1000
+vy2:1000
+vz2:1000
+vx3:1000
+vy3:1000
+vz3:-1000
+
+Fill colours in RGB format
+R1:29
+G1:154
+B1:206
+R2:29
+G2:154
+B2:206
+R3:29
+G3:154
+B3:206
+
+Trail colours in RGB format
+R1:0
+G1:255
+B1:0
+R2:255
+G2:255
+B2:0
+R3:255
+G3:0
+B3:0
+	
